@@ -1,6 +1,5 @@
 # Gul-moattar
-GitHub Profile README
-
+ 
 # Hi there! 👋 I'm Gul Moattar
 
 🎓 **Bachelor of Science in Artificial Intelligence (BSAI) Student**
