@@ -2,7 +2,7 @@
  
 # Hi there! 👋 I'm Gul Moattar
 
-🎓 **Bachelor of Science in Artificial Intelligence (BSAI) Student**
+**Bachelor of Science in Artificial Intelligence (BSAI) Student**
 
 I'm passionate about building intelligent systems that solve real-world problems using Artificial Intelligence and Machine Learning. I enjoy learning new technologies, experimenting with datasets, and developing projects that strengthen my programming and problem-solving skills.
 
